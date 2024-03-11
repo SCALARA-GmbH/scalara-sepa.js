@@ -1,7 +1,7 @@
 {
   "author": "Philipp Kewisch",
   "name": "sepa",
-  "version": "*",
+  "version": "1.2.1",
   "description": "Create SEPA XML for business transactions",
   "license": "MPL-2.0",
   "main": "lib/sepa.js",
